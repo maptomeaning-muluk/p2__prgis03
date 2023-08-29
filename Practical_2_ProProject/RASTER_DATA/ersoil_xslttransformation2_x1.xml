@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20040329</CreaDate>
+    <CreaTime>07594700</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <DataProperties>
+      <itemProps>
+        <itemLocation>
+          <linkage Sync="FALSE">withheld</linkage>
+        </itemLocation>
+        <nativeExtBox />
+      </itemProps>
+      <coordRef />
+      <RasterProperties>
+        <General />
+      </RasterProperties>
+    </DataProperties>
+    <SyncDate>20141118</SyncDate>
+    <SyncTime>16364600</SyncTime>
+    <ModDate>20141118</ModDate>
+    <ModTime>16364600</ModTime>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <ArcGISProfile>ISO19139</ArcGISProfile>
+  </Esri>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <onlink Sync="FALSE">withheld</onlink>
+      </citeinfo>
+    </citation>
+  </idinfo>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <linkage Sync="FALSE">withheld</linkage>
+        </onLineSrc>
+      </distorTran>
+    </distributor>
+    <distFormat />
+  </distInfo>
+  <dataqual>
+    <lineage>
+      <procstep />
+    </lineage>
+  </dataqual>
+  <dataIdInfo>
+    <resConst xmlns:esri="http://www.esri.com/metadata/">
+      <Consts>
+        <useLimit>	Use of this Data is restricted to training, demonstration, and educational purposes only. This Data cannot be sold or used for marketing without the express written consent of Environmental Systems Research Institute Inc.
+	THE DATA AND RELATED MATERIALS MAY CONTAIN SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET USER'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE USER SHOULD ALWAYS VERIFY ACTUAL DATA.
+	THE DATA AND RELATED MATERIALS ARE PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+	IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+	In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata.</useLimit>
+      </Consts>
+    </resConst>
+    <dataLang />
+    <idCitation>
+      <presForm />
+    </idCitation>
+    <spatRpType />
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search" />
+      </geoEle>
+    </dataExt>
+    <idPurp>This data is fictional and was created for Esri educational purposes only.</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;"The data and related materials are made available through Esri (http://www.esri.com) and are intended for educational purposes only (see Access and use limitations section)."&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idCredit>Esri Training</idCredit>
+    <searchKeys>
+      <keyword>PYTH</keyword>
+      <keyword>Esri Training</keyword>
+      <keyword>Lake Tahoe</keyword>
+      <keyword>soils</keyword>
+    </searchKeys>
+    <resConst xmlns:esri="http://www.esri.com/metadata/">
+      <Consts>
+        <useLimit>	Use of this Data is restricted to training, demonstration, and educational purposes only. This Data cannot be sold or used for marketing without the express written consent of Environmental Systems Research Institute Inc.
+	THE DATA AND RELATED MATERIALS MAY CONTAIN SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET USER'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE USER SHOULD ALWAYS VERIFY ACTUAL DATA.
+	THE DATA AND RELATED MATERIALS ARE PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+	IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+	In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata.</useLimit>
+      </Consts>
+    </resConst>
+  </dataIdInfo>
+  <mdLang />
+  <mdHrLv />
+  <refSysInfo>
+    <RefSystem>
+      <refSysID />
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <Georect>
+      <cellGeo />
+      <cornerPts />
+      <cornerPts />
+      <cornerPts />
+      <cornerPts />
+      <centerPt />
+      <axisDimension type="002">
+        <dimResol />
+      </axisDimension>
+      <axisDimension type="001">
+        <dimResol />
+      </axisDimension>
+      <ptInPixel />
+    </Georect>
+  </spatRepInfo>
+  <eainfo>
+    <detailed Name="ersoil.vat">
+      <enttyp>
+        <enttypl Sync="TRUE">ersoil.vat</enttypl>
+        <enttypt Sync="TRUE">Table</enttypt>
+        <enttypc Sync="TRUE">19</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">Rowid</attrlabl>
+        <attalias Sync="TRUE">Rowid</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">VALUE</attrlabl>
+        <attalias Sync="TRUE">VALUE</attalias>
+        <attrtype Sync="TRUE">Integer</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">COUNT</attrlabl>
+        <attalias Sync="TRUE">COUNT</attalias>
+        <attrtype Sync="TRUE">Integer</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SOIL_CODE</attrlabl>
+        <attalias Sync="TRUE">SOIL_CODE</attalias>
+        <attrtype Sync="TRUE">SmallInteger</attrtype>
+        <attwidth Sync="TRUE">3</attwidth>
+        <atprecis Sync="TRUE">3</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SOIL_TEXT</attrlabl>
+        <attalias Sync="TRUE">SOIL_TEXT</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SOIL_DESC</attrlabl>
+        <attalias Sync="TRUE">SOIL_DESC</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">32</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SOIL_PH</attrlabl>
+        <attalias Sync="TRUE">SOIL_PH</attalias>
+        <attrtype Sync="TRUE">Single</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <contInfo>
+    <ImgDesc>
+      <contentTyp />
+      <covDim>
+        <Band>
+          <valUnit>
+            <UOM type="length" />
+          </valUnit>
+        </Band>
+      </covDim>
+    </ImgDesc>
+  </contInfo>
+  <mdContact xmlns:esri="http://www.esri.com/metadata/">
+    <rpOrgName>Environmental Systems Research Institute, Inc. (Esri)</rpOrgName>
+    <rpCntInfo>
+      <cntAddress>
+        <delPoint>380 New York Street</delPoint>
+        <city>Redlands</city>
+        <adminArea>California</adminArea>
+        <postCode>92373-8100</postCode>
+        <country>USA</country>
+        <eMailAdd>info@esri.com</eMailAdd>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>909-793-2853</voiceNum>
+        <faxNum>909-793-5953</faxNum>
+      </cntPhone>
+      <cntOnlineRes>
+        <linkage>http://www.esri.com/about-esri/contact.html</linkage>
+      </cntOnlineRes>
+      <cntInstr>In the United States, please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; Esri holidays excluded. Outside the United States, please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri International Distributor.  This information can be found at http://www.esri.com/about-esri/locations.html.</cntInstr>
+      <cntHours>8:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</cntHours>
+    </rpCntInfo>
+    <role>
+      <RoleCd value="005" />
+    </role>
+  </mdContact>
+</metadata>
